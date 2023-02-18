@@ -22,8 +22,6 @@ class Config {
     public static $project_name = "";   // Azon projekt neve, amelyen belül keressük a felhasználó feladatait.
 }
 ```
-    
-Kiadni a `composer update` parancsot.
 
 ## Használat
 

@@ -1,13 +1,4 @@
-# PHP SDK for ActiveCollab 5 and 6 API
-
-Jászolos Ádám teszt feladat
-
-## Telepítés
-
-Első lépésként a config mappán belül meg kell adni a helyes beállításokat
-
-```php
-<?php
+<?php 
 
 class Config {
     // Active collab connect infos
@@ -19,12 +10,3 @@ class Config {
     // Egyedi config, hogy azonosítani tudjuk a kívánt projektet
     public static $project_name = "";   // Azon projekt neve, amelyen belül keressük a felhasználó feladatait.
 }
-```
-    
-Kiadni a `composer update` parancsot.
-
-## Használat
-
-Meg kell hívni az index.php-t a megfelelő paraméterrel. 
-
-`..../index.php?user_name=___`

@@ -4,7 +4,9 @@ Az alábbi leírás segít a program helyes beállításában, és teszteléséb
 
 ## Telepítés
 
-Első lépésként a config mappán belül meg kell adni a helyes beállításokat
+Pullolni kell a repot.
+
+A config mappán belül meg kell adni a helyes beállításokat.
 
 ```php
 <?php

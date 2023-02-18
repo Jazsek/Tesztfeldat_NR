@@ -13,7 +13,7 @@ A config mappán belül meg kell adni a helyes beállításokat.
 
 class Config {
     // Active collab connect infos
-    public static $org_name = "";   //Szervezet neve
+    public static $org_name = "";   // Szervezet neve
     public static $app_name = "";   // Fejlesztés alatt álló app neve (igazából lehet bármi)
     public static $username = "";   // Felhasználónév
     public static $password = "";   // Jelszó

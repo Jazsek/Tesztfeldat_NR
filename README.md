@@ -4,7 +4,7 @@ Az alábbi leírás segít a program helyes beállításában, és teszteléséb
 
 ## Telepítés
 
-Pullolni kell a repot.
+Klónozni kell, vagy letölteni a repot.
 
 A config mappán belül meg kell adni a helyes beállításokat.
 

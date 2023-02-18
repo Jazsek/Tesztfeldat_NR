@@ -27,4 +27,4 @@ class Config {
 
 Meg kell hívni az index.php-t a megfelelő paraméterrel. 
 
-`..../index.php?user_name=___`
+`..../index.php?user_email=___`

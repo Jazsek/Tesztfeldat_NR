@@ -1,6 +1,6 @@
-# PHP SDK for ActiveCollab 5 and 6 API
+# Jászolos Ádám teszt feladat
 
-Jászolos Ádám teszt feladat
+Az alábbi leírás segít a program helyes beállításában, és tesztelésében.
 
 ## Telepítés
 
